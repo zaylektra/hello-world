@@ -13,3 +13,4 @@ Otro cambio desde Bugfux 2
 2024-05-01T10:49:59Z
 
 * 1
+* 2
